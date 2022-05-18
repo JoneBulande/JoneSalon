@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="JoneSalon" src="./assets/fotos/JoneSalon-Preview-JoneBulande.png" width="100%">
+  <img alt="JoneSalon" src="./assets/fotos/JoneSalon-Preview-MockupJoneBulande.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
